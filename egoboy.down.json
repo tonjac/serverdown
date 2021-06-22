@@ -3,5 +3,5 @@
 	"description": "Planerat underhåll, välkommen tillbaka när vi är online igen!",
 	"from":"2021-06-22 15.00",
 	"tom":"2021-06-22 16.00",
-	"online":false
+	"online":true
 }
